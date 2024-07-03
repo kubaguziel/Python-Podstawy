@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Praca_z_lista", "Praca_z_lista\Praca_z_lista.pyproj", "{50297593-F2F5-4EE2-BB1A-7AABC5C5896B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50297593-F2F5-4EE2-BB1A-7AABC5C5896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50297593-F2F5-4EE2-BB1A-7AABC5C5896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612DF37F-B99F-4F86-B696-DD82093DDAB0}
+	EndGlobalSection
+EndGlobal

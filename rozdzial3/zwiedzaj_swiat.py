@@ -1,0 +1,13 @@
+﻿miejsca = ['Rzym','Madryt','Paryż','Tokio','Chiny']
+print(miejsca)
+print(sorted(miejsca))
+print(miejsca)
+print(sorted(miejsca, reverse=True))
+miejsca.reverse()
+print(miejsca)
+miejsca.reverse()
+print(miejsca)
+miejsca.sort()
+print(miejsca)
+miejsca.sort(reverse=True)
+print(miejsca)
